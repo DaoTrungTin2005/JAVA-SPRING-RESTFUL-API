@@ -59,7 +59,7 @@
 		</dependency>
 
         <!-- Hỗ trợ thao tác database theo chuẩn JPA (JPA : ánh xạ class java và table trong database)-->
-	    <dependency>
+        <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
