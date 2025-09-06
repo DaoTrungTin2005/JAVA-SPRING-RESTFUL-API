@@ -1,4 +1,4 @@
-package vn.hoidanit.todo;
+package vn.hoidanit.jobhunter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
