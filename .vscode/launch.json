@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-jobhunterApplication<todo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vn.hoidanit.jobhunter.jobhunterApplication",
+            "projectName": "todo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JobhunterApplication<jobhunter>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vn.hoidanit.jobhunter.JobhunterApplication",
+            "projectName": "jobhunter",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

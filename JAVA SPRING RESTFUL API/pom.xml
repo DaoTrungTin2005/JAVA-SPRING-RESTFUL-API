@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>vn.hoidanit</groupId>
-	<artifactId>todo</artifactId>
+	<artifactId>jobhunter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>todo</name>
+	<name>jobhunter</name>
 	<description>Java Spring REST Starter - made by @hoidanit</description>
 	<url/>
 	<licenses>
